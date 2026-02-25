@@ -62,3 +62,7 @@ You can reach me at [roman.pk@yahoo.com](mailto:roman.pk@yahoo.com).
 ## Links
 - Live Demo - TBA 
 - [GitHub Repository](https://github.com/roman-pk/To-Do-App-Python-Flask)
+
+## AWS Architecture Diagram
+
+![Architecture Diagram](docs/Blank diagram.png)
