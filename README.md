@@ -65,4 +65,4 @@ You can reach me at [roman.pk@yahoo.com](mailto:roman.pk@yahoo.com).
 
 ## AWS Architecture Diagram
 
-![Architecture Diagram](docs/Blank diagram.png)
+![Architecture Diagram](images/Blank-diagram.png)
